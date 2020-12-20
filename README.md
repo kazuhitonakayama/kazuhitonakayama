@@ -1,4 +1,5 @@
 # I'm a Engineer and a Designer 🙋‍
+[![Open Source Helpers](https://www.codetriage.com/rails/rails/badges/users.svg)](https://www.codetriage.com/rails/rails)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuhitonakayama&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhitonakayama)](https://github.com/anuraghazra/github-readme-stats)
