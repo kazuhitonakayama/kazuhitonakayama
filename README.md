@@ -10,10 +10,10 @@
 
 ## Connect with me:
 
-<img align="left" alt="KazuhitoNakayama" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="KazuhitoNakayama|Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />
-<img align="left" alt="KazuhitoNakayama|Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="KazuhitoNakayama|Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://k-creative.tech"><img align="left" alt="KazuhitoNakayama" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.facebook.com/profile.php?id=100017914184991"><img align="left" alt="KazuhitoNakayama|Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" /></a>
+<a href="https://twitter.com/facultyoflaw11"><img align="left" alt="KazuhitoNakayama|Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.instagram.com/kazuhito_nakayama/"><img align="left" alt="KazuhitoNakayama|Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br>
 
