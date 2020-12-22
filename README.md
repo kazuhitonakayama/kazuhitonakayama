@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/kazuhitonakayama">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kazuhitonakayama&theme=radical" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kazuhitonakayama&theme=monokai" />
 </a>
 
 <br>
