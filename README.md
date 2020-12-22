@@ -1,5 +1,5 @@
 # I'm a Engineer and a Designer 🙋‍
-<img src="https://images.unsplash.com/photo-1606851578659-47a72e759a0a?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80">
+<img src="./images/Github_profile_img.svg">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuhitonakayama&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhitonakayama)](https://github.com/anuraghazra/github-readme-stats)
