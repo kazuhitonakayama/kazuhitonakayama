@@ -7,6 +7,13 @@
 <a href="https://github.com/kazuhitonakayama">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&theme=radical" />
 </a>
+<br>
+<img src="https://img.icons8.com/dusk/128/000000/html-5.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
+<img src="https://img.icons8.com/dusk/128/000000/wordpress.png"/>
+<img src="https://img.icons8.com/bubbles/100/000000/react.png"/>
+<img src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png"/>
 
 ## Cotact with me
 
