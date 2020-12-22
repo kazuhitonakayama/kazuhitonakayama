@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&theme=radical" />
 </a>
 
-## Cotact with me:
+## Cotact with me
 
 <a href="https://k-creative.tech"><img align="left" alt="KazuhitoNakayama" width="22px" src="https://img.icons8.com/clouds/100/000000/globe.png" /></a>
 <a href="https://www.facebook.com/profile.php?id=100017914184991"><img align="left" alt="KazuhitoNakayama|Facebook" width="22px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png" /></a>
@@ -17,9 +17,8 @@
 <br>
 These icons is delivered by [Icons8](https://icons8.com/)
 
-<br>
 ## My interest
-a
+
 ##### [![Open Source Helpers](https://www.codetriage.com/rails/rails/badges/users.svg)](https://www.codetriage.com/rails/rails)
 ##### I'm OSS contributer in [github/docs](https://github.com/github/docs/)
 ##### 🔭 I’m currently working on [Atware](https://www.atware.co.jp/)
