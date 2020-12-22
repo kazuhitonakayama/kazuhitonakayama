@@ -8,6 +8,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&theme=radical" />
 </a>
 <br>
+<br>
 <span><img width="30px" src="https://img.icons8.com/dusk/128/000000/html-5.png"/></span>
 <span><img width="30px" src="https://img.icons8.com/dusk/64/000000/css3.png"/></span>
 <span><img width="30px" src="https://img.icons8.com/dusk/64/000000/javascript.png"/></span>
