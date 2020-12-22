@@ -1,10 +1,13 @@
 # I'm a Engineer and a Designer 🙋‍
 <img src="./images/Github_profile_img.png">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuhitonakayama&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Language and my activities
+<a href="https://github.com/kazuhitonakayama">
+  <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/kazuhitonakayama">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&layout=compact&theme=radical" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuhitonakayama)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazuhitonakayama&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ##### [![Open Source Helpers](https://www.codetriage.com/rails/rails/badges/users.svg)](https://www.codetriage.com/rails/rails)
 ##### I'm OSS contributer in [github/docs](https://github.com/github/docs/)
 ##### 🔭 I’m currently working on [Atware](https://www.atware.co.jp/)
