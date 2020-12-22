@@ -8,12 +8,12 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&theme=radical" />
 </a>
 <br>
-<img width="30px" src="https://img.icons8.com/dusk/128/000000/html-5.png"/>
-<img width="30px" src="https://img.icons8.com/dusk/64/000000/css3.png"/>
-<img width="30px" src="https://img.icons8.com/dusk/64/000000/javascript.png"/>
-<img width="30px" src="https://img.icons8.com/dusk/128/000000/wordpress.png"/>
-<img width="30px" src="https://img.icons8.com/bubbles/100/000000/react.png"/>
-<img width="30px" src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png"/>
+<span><img width="30px" src="https://img.icons8.com/dusk/128/000000/html-5.png"/></span>
+<span><img width="30px" src="https://img.icons8.com/dusk/64/000000/css3.png"/></span>
+<span><img width="30px" src="https://img.icons8.com/dusk/64/000000/javascript.png"/></span>
+<span><img width="30px" src="https://img.icons8.com/dusk/128/000000/wordpress.png"/></span>
+<span><img width="30px" src="https://img.icons8.com/bubbles/100/000000/react.png"/></span>
+<span><img width="30px" src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png"/></span>
 
 ## Cotact with me
 
