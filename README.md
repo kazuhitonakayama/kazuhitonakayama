@@ -17,10 +17,10 @@
 
 ## Cotact with me
 
-<a href="https://k-creative.tech"><img align="left" alt="KazuhitoNakayama" width="30px" src="https://img.icons8.com/clouds/100/000000/globe.png" /></a>
-<a href="https://www.facebook.com/profile.php?id=100017914184991"><img align="left" alt="KazuhitoNakayama|Facebook" width="30px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png" /></a>
-<a href="https://twitter.com/facultyoflaw11"><img align="left" alt="KazuhitoNakayama|Twitter" width="30px" src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
-<a href="https://www.instagram.com/kazuhito_nakayama/"><img align="left" alt="KazuhitoNakayama|Instagram" width="30px" src="https://img.icons8.com/clouds/100/000000/instagram-new.png" /></a>
+<a href="https://k-creative.tech"><img align="left" alt="KazuhitoNakayama" width="40px" src="https://img.icons8.com/clouds/100/000000/globe.png" /></a>
+<a href="https://www.facebook.com/profile.php?id=100017914184991"><img align="left" alt="KazuhitoNakayama|Facebook" width="40px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png" /></a>
+<a href="https://twitter.com/facultyoflaw11"><img align="left" alt="KazuhitoNakayama|Twitter" width="40px" src="https://img.icons8.com/clouds/100/000000/twitter.png" /></a>
+<a href="https://www.instagram.com/kazuhito_nakayama/"><img align="left" alt="KazuhitoNakayama|Instagram" width="40px" src="https://img.icons8.com/clouds/100/000000/instagram-new.png" /></a>
 <br>
 These icons is delivered by [Icons8](https://icons8.com/)
 
