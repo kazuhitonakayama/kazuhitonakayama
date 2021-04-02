@@ -33,7 +33,6 @@ These icons is delivered by [Icons8](https://icons8.com/)
 
 ##### [![Open Source Helpers](https://www.codetriage.com/rails/rails/badges/users.svg)](https://www.codetriage.com/rails/rails)
 ##### I'm OSS contributer in [github/docs](https://github.com/github/docs/)
-##### 🔭 I’m currently working on [Atware](https://www.atware.co.jp/)
 ##### 🌱 I’m currently learning Ruby on rails, React, Java
-#####  👯 I’m engineer at [Vcook](https://vcook.jp/), [CLACK](https://clack.ne.jp/), [Geeksalon](https://geek-salon.com/)
+#####  👯 I was engineer at [Vcook](https://vcook.jp/), [CLACK](https://clack.ne.jp/), [Geeksalon](https://geek-salon.com/)
 #####  📫 How to reach me: Contact Me via [Twitter](https://twitter.com/candle_hub)
