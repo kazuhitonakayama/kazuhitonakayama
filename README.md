@@ -1,6 +1,11 @@
 # I'm a Engineer and a Designer 🙋‍
 <img src="./images/Github_profile_img.png">
 
+## My Dream
+Someday, I want to create products that will make the world a better place.
+
+I want to support people who dedicate their lives to help others.
+
 ## Language and my activities
 <a href="https://github.com/kazuhitonakayama">
   <img align="center" alt="kazuhitonakayaman's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kazuhitonakayama&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
