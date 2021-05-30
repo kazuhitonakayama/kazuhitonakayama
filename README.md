@@ -11,7 +11,7 @@ I want to support people who dedicate their lives to help others.
   <img align="center" alt="kazuhitonakayaman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kazuhitonakayama&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kazuhitonakayama&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=kazuhitonakayama&theme=monokai" />
