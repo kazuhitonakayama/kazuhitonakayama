@@ -32,7 +32,7 @@ I want to support people who dedicate their lives to help others.
 
 - [Responsivize](https://github.com/virejdasani/Responsivize) made by [@virejdasani](https://github.com/virejdasani)  
   - [Add https:// to URL when the inputted URL is without https://](https://github.com/virejdasani/Responsivize/pull/9)
-- [Github docs](https://github.com/github/docs)
+- [Github docs](https://github.com/github/docs) made by [@github]
   - [Place a scrollable button to the top of the page](https://github.com/github/docs/pull/2243)
                                                                               
 ## Cotact with me
