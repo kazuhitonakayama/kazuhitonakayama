@@ -26,6 +26,15 @@ I want to support people who dedicate their lives to help others.
 <span><img width="30px" src="https://img.icons8.com/bubbles/100/000000/react.png"/></span>
 <span><img width="30px" src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png"/></span>
 
+                                                                   
+
+## Contributed to 
+
+- [Responsivize](https://github.com/virejdasani/Responsivize) made by [@virejdasani](https://github.com/virejdasani)  
+  - [Add https:// to URL when the inputted URL is without https://](https://github.com/virejdasani/Responsivize/pull/9)
+- [Github docs](https://github.com/github/docs)
+  - [Place a scrollable button to the top of the page](https://github.com/github/docs/pull/2243)
+                                                                              
 ## Cotact with me
 
 <a href="https://k-creative.tech"><img align="left" alt="KazuhitoNakayama" width="40px" src="https://img.icons8.com/clouds/100/000000/globe.png" /></a>
