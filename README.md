@@ -34,6 +34,9 @@ I want to support people who dedicate their lives to help others.
   - [Add https:// to URL when the inputted URL is without https://](https://github.com/virejdasani/Responsivize/pull/9)
 - [Github docs](https://github.com/github/docs) made by [@github](https://github.com/github)
   - [Place a scrollable button to the top of the page](https://github.com/github/docs/pull/2243)
+- [lgtmoon](https://github.com/yoshikyoto/lgtmoon) made by [@yoshikyoto](https://github.com/yoshikyoto)
+  - [fix typo](https://github.com/yoshikyoto/lgtmoon/pull/76)
+https://github.com/yoshikyoto/lgtmoon/pull/76
                                                                               
 ## Cotact with me
 
