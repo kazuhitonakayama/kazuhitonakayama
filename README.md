@@ -28,7 +28,7 @@ I want to support people who dedicate their lives to help others.
 
 ## Donate to
 - [CLACK](https://clack.ne.jp/) 3000yen/month
-- [Henning Dieterichs](https://github.com/hediet) made Drawio $10/month                                                                  
+- [Henning Dieterichs](https://github.com/hediet) made [Drawio](https://drawio-app.com/) $10/month                                                                  
 
 ## Contributed to 
 
