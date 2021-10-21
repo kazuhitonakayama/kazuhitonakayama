@@ -26,7 +26,9 @@ I want to support people who dedicate their lives to help others.
 <span><img width="30px" src="https://img.icons8.com/bubbles/100/000000/react.png"/></span>
 <span><img width="30px" src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png"/></span>
 
-                                                                   
+## Donate to
+- [CLACK](https://clack.ne.jp/) 3000yen/month
+- [Henning Dieterichs](https://github.com/hediet) made Drawio $10/month                                                                  
 
 ## Contributed to 
 
