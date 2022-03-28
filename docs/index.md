@@ -1,6 +1,7 @@
 # Kazuhito Nakayama
 
-<img src="../images/Github_profile_img.png">  
+<img width="1007" alt="image" src="https://user-images.githubusercontent.com/50609459/160316629-4065e4a6-f6bc-44b5-940b-880dce8bea25.png">
+
 
 # 職務経歴
 ## 2022年3月~ 株式会社ブイクック リードエンジニア
