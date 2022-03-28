@@ -52,7 +52,14 @@
 
 ## 2019年6月~2021年1月 Geeksalon Webメンター
 
+### 役割
+
+- メンターとして、受講生さんのものづくりをサポート
+
 ## 2019年3月~2021年6月 Geeksalon Webコース2期生入会
+### 役割
+
+- 受講生
 
 # アウトプット編
 - [Qiita](https://qiita.com/kazuhito_nakayama)
