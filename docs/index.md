@@ -47,7 +47,7 @@
 
 ### 役割
 
-- WordpressというCMSを用いたWeb制作をするプログラマー
+- WordpressというCMSを用いたWeb制作をする
 
 
 ## 2019年6月~2021年1月 Geeksalon Webメンター
