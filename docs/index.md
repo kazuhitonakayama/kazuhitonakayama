@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# 仕事編
+## 2022年3月~ 株式会社ブイクック リードエンジニア
 
-You can use the [editor on GitHub](https://github.com/kazuhitonakayama/kazuhitonakayama/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### 関わったサービス概要
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [ヴィーガンレシピの投稿サイト vcook](https://vcook.jp)
+- [ヴィーガン商品専門のECサイト vcookmall](https://vcookmall.jp)
 
-### Markdown
+### 使用技術
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Ruby
+- Ruby on Rails
+- Heroku
 
-```markdown
-Syntax highlighted code block
+### 役割
 
-# Header 1
-## Header 2
-### Header 3
+- バックエンドからフロントまで幅広く
+- エンジニアメンバーとしてコードも書くこともあれば、リードエンジニアとしてコードレビューを行ったりなどして、コードの品質担保の責任を持つ
 
-- Bulleted
-- List
+## 2021年4月~2022年2月 株式会社アットウェア ソフトウェアエンジニア
 
-1. Numbered
-2. List
+### 関わったサービス概要
 
-**Bold** and _Italic_ and `Code` text
+- 論文検索エンジンのバックエンド部分
 
-[Link](url) and ![Image](src)
-```
+### 使用技術
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- python
+- AWS ECS、EC2
+- Docker
+- Spring
 
-### Jekyll Themes
+### 役割
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kazuhitonakayama/kazuhitonakayama/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- サービスのバックエンド開発メンバー4人の内の1人
 
-### Support or Contact
+## 2019年3月~2021年1月 株式会社バルト プログラマー
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 使用技術
+
+- Wordpress
+- javascript
+- HTML
+- CSS
+
+### 役割
+
+- WordpressというCMSを用いたWeb制作をするプログラマー
+
+
+## 2019年6月~2021年1月 Geeksalon Webメンター
+
+## 2019年3月~2021年6月 Geeksalon Webコース2期生入会
+
+# アウトプット編
+- [Qiita](https://qiita.com/kazuhito_nakayama)
+- [zenn](https://zenn.dev/be_the_light)
+- [Github](https://github.com/kazuhitonakayama)
+- [Twitter](https://twitter.com/candle_hub)
+- [Instagram](https://www.instagram.com/kazuhito_nakayama)
+
+
+# プライベート開発編
+## 2021年11月~2022年1月 Goを用いて、コロナの感染者数を毎日通知してくれるアプリを実装
+[スライド](https://speakerdeck.com/kazuhitonakayama/koronafalsegan-ran-zhe-shu-wolineniri-ci-detong-zhi-suruapuriwokai-fa-sita)  
+
+![image](https://user-images.githubusercontent.com/50609459/160310909-7712b2b6-1418-4e39-88d6-ed3653d57862.png)
+
+## 2021年5月~2021年8月 Pythonを用いて、シェアハウスのお風呂の空き状況を管理するアプリを実装
+[スライド](https://speakerdeck.com/kazuhitonakayama/application-manual-visibath)  
+
+![image](https://user-images.githubusercontent.com/50609459/160311050-70f816bf-74dc-46a5-b9d4-adc08a3d0686.png)
