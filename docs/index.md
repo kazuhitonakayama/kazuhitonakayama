@@ -4,7 +4,7 @@
 
 
 # 職務経歴
-## 2022年3月~ 株式会社ブイクック リードエンジニア
+## 2020年6月~現在 株式会社ブイクック エンジニア~リードエンジニア
 
 ### 関わったサービス概要
 
@@ -82,3 +82,5 @@
 [スライド](https://speakerdeck.com/kazuhitonakayama/application-manual-visibath)  
 
 ![image](https://user-images.githubusercontent.com/50609459/160311050-70f816bf-74dc-46a5-b9d4-adc08a3d0686.png)
+
+<img width="1007" alt="image" src="https://user-images.githubusercontent.com/50609459/160316629-4065e4a6-f6bc-44b5-940b-880dce8bea25.png">
