@@ -6,7 +6,14 @@ Someday, I want to create products that will make the world a better place.
 
 I want to support people who dedicate their lives to help others.
 
-## Language and my activities
+## My interest
+
+- Ruby
+- TypeScript
+- React
+- Go
+
+## My activities
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="kazuhitonakayaman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kazuhitonakayama&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" />
 </a>
@@ -16,15 +23,6 @@ I want to support people who dedicate their lives to help others.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=kazuhitonakayama&theme=monokai" />
 </a>
-
-<br>
-<br>
-<span><img width="30px" src="https://img.icons8.com/dusk/128/000000/html-5.png"/></span>
-<span><img width="30px" src="https://img.icons8.com/dusk/64/000000/css3.png"/></span>
-<span><img width="30px" src="https://img.icons8.com/dusk/64/000000/javascript.png"/></span>
-<span><img width="30px" src="https://img.icons8.com/dusk/128/000000/wordpress.png"/></span>
-<span><img width="30px" src="https://img.icons8.com/bubbles/100/000000/react.png"/></span>
-<span><img width="30px" src="https://img.icons8.com/dusk/128/000000/java-coffee-cup-logo.png"/></span>
 
 ## Donate to
 - [CLACK](https://clack.ne.jp/) 3000yen/month
@@ -42,11 +40,3 @@ https://github.com/yoshikyoto/lgtmoon/pull/76
 ## Cotact with me
 [Twitter](https://twitter.com/kazuhitonakayam)
 <br>
-
-## My interest
-
-##### [![Open Source Helpers](https://www.codetriage.com/rails/rails/badges/users.svg)](https://www.codetriage.com/rails/rails)
-##### I'm OSS contributer in [github/docs](https://github.com/github/docs/)
-##### 🌱 I’m currently learning Ruby on rails, React, Java
-#####  👯 I was engineer at [Vcook](https://vcook.jp/), [CLACK](https://clack.ne.jp/), [Geeksalon](https://geek-salon.com/)
-#####  📫 How to reach me: Contact Me via [Twitter](https://twitter.com/candle_hub)
