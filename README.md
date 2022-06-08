@@ -1,4 +1,4 @@
-# I'm a Engineer and a Designer 🙋‍
+# I'm a Engineer 🙋‍
 <img src="./images/Github_profile_img.png">
 
 ## My Dream
