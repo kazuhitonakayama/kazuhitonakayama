@@ -68,14 +68,8 @@ Wordpress REST APIでWordpressの記事データを取得し、RailsのActiveRec
 
 
 # 自主開発
-## 2021年11月~2022年1月 Goを用いて、コロナの感染者数を毎日通知してくれるアプリを実装
-[スライド](https://speakerdeck.com/kazuhitonakayama/koronafalsegan-ran-zhe-shu-wolineniri-ci-detong-zhi-suruapuriwokai-fa-sita)  
 
-![image](https://user-images.githubusercontent.com/50609459/160310909-7712b2b6-1418-4e39-88d6-ed3653d57862.png)
-
-## 2021年5月~2021年8月 Pythonを用いて、シェアハウスのお風呂の空き状況を管理するアプリを実装
-[スライド](https://speakerdeck.com/kazuhitonakayama/application-manual-visibath)  
-
-![image](https://user-images.githubusercontent.com/50609459/160311050-70f816bf-74dc-46a5-b9d4-adc08a3d0686.png)
-
-<img width="1007" alt="image" src="https://user-images.githubusercontent.com/50609459/160316629-4065e4a6-f6bc-44b5-940b-880dce8bea25.png">
+|2021年11月~2022年1月 Goを用いて、コロナの感染者数を毎日通知してくれるアプリを実装|2021年5月~2021年8月 Pythonを用いて、シェアハウスのお風呂の空き状況を管理するアプリを実装|
+|---|---|
+|[スライド](https://speakerdeck.com/kazuhitonakayama/koronafalsegan-ran-zhe-shu-wolineniri-ci-detong-zhi-suruapuriwokai-fa-sita)|[スライド](https://speakerdeck.com/kazuhitonakayama/application-manual-visibath)|
+|![image](https://user-images.githubusercontent.com/50609459/160310909-7712b2b6-1418-4e39-88d6-ed3653d57862.png)|![image](https://user-images.githubusercontent.com/50609459/160311050-70f816bf-74dc-46a5-b9d4-adc08a3d0686.png)|
