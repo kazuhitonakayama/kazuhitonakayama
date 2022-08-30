@@ -61,10 +61,7 @@ Wordpress REST APIでWordpressの記事データを取得し、RailsのActiveRec
 
 
 # 情報発信源
-- [Qiita](https://qiita.com/kazuhito_nakayama)
-- [Zenn](https://zenn.dev/be_the_light)
-- [Github](https://github.com/kazuhitonakayama)
-- [Twitter](https://twitter.com/kazuhitonakayam)
+[Qiita](https://qiita.com/kazuhito_nakayama) / [Zenn](https://zenn.dev/be_the_light) / [Github](https://github.com/kazuhitonakayama) / [Twitter](https://twitter.com/kazuhitonakayam)
 
 
 # 自主開発
