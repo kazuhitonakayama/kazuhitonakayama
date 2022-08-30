@@ -75,10 +75,10 @@ Ruby on Railsを使ったWebアプリ開発のアイデア立案から実装、�
 CMS(Wordpress、shopify)を用いて、ECサイトや、コーポレートサイトを制作
 
 #### 業務内容の詳細
-3人程度のエンジニアと共に、主にフロントエンドを中心に開発する。Wordpressに関しては、既存のテーマを使用するのではなく、オリジナルテーマをスクラッチでお客様仕様に合わせて開発する。
+3人程度のエンジニアと共に、主にフロントエンドを中心に開発する。Wordpressに関しては、既存のテーマを使用するのではなく、お客様仕様に合わせてオリジナルテーマを開発する。
 
 使用技術
-- Ruby / Ruby on Rails / heroku / javascript
+- Wordpress / shopify / HTML / CSS / javascript
 
 
 # 情報発信源
