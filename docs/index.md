@@ -68,6 +68,6 @@ Wordpress REST APIでWordpressの記事データを取得し、RailsのActiveRec
 
 |2021年11月~2022年1月 Goを用いて、コロナの感染者数を毎日通知してくれるアプリを実装|2021年5月~2021年8月 Pythonを用いて、シェアハウスのお風呂の空き状況を管理するアプリを実装|
 |---|---|
-|Go as backend / AWS SAM / AWS Aurora / Heroku as infla / LINE API as frontend| Python as backend / AWS Lambda / AWS MongoDB / LINE API as frontend|
+|Go as backend / AWS SAM / AWS Aurora / Heroku as infla / LINE API as frontend| Python as backend / AWS Lambda / AWS API Gateway/ AWS MongoDB / LINE API as frontend|
 |[スライド](https://speakerdeck.com/kazuhitonakayama/koronafalsegan-ran-zhe-shu-wolineniri-ci-detong-zhi-suruapuriwokai-fa-sita)|[スライド](https://speakerdeck.com/kazuhitonakayama/application-for-checking-the-availability-of-shared-bathrooms)|
 |![image](https://user-images.githubusercontent.com/50609459/160310909-7712b2b6-1418-4e39-88d6-ed3653d57862.png)|![image](https://user-images.githubusercontent.com/50609459/160311050-70f816bf-74dc-46a5-b9d4-adc08a3d0686.png)|
