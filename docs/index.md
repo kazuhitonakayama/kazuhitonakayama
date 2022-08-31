@@ -37,7 +37,7 @@ ECサイトの構築
 マーケットプレイス型のECモールの開発を3人程度で行う。主にバックエンド(決済における配送料の計算部分や、配送料の設定部分・商品データの設定部分)を担当する。また、エラー検知や、サービスの死活監視の用途でモニタリングシステムの基盤構築も行う。
 
 使用技術
-- Ruby on Rails / spree（ECサイトの構築ができるオープンソース） / Datadog / javascript / shopify
+- Ruby on Rails / heroku / spree（ECサイトの構築ができるオープンソース） / Datadog / javascript / shopify
 
 ### 株式会社ブイクック（ソフトウェアエンジニア：業務委託） 2020年6月~2022年2月
 #### 業務内容要約
@@ -48,7 +48,7 @@ Wordpress REST APIでWordpressの記事データを取得し、RailsのActiveRec
 また、レシピサイトの開発においては、Railsを使って新規機能の開発・保守・運用を行う。
 
 使用技術
-- Ruby on Rails / Wordpress REST API / javascript / sentry
+- Ruby on Rails / heroku / Wordpress REST API / javascript / sentry
 
 ### 株式会社アットウェア（ソフトウェアエンジニア：正社員） 2021年4月~2022年1月
 #### 業務内容要約
