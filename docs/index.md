@@ -6,6 +6,34 @@
 学校法人履正社 履正社高等学校を2017年に卒業。  
 大阪市立大学法学部へ2017年に入学、2021年に卒業。
 
+## 技術スタック
+
+### 言語
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-green?logo=go">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+  <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+</p>
+
+### フレームワーク・その他
+<p>
+  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white">
+</p>
+
+### ミドルウェア
+<p>
+  <img src="https://img.shields.io/badge/heroku-infra-green">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
+  <img src="https://img.shields.io/badge/MySQL-pink?logo=mysql">
+</p>
+
 ## 職務要約
 大阪市立大学法学部在学中（2年次）に、プログラミング学習を始め、Web制作会社での1年半程度インターン、個人事業主として受託開発、そしてプログラミングスクールにてRuby on RailsによるWebアプリ開発の伴走をする。  
 
