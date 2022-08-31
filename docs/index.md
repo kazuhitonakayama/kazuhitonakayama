@@ -92,3 +92,14 @@ CMS(Wordpress、shopify)を用いて、ECサイトや、コーポレートサイ
 |Go as backend / AWS SAM / AWS Aurora / Heroku as infla / LINE API as frontend| Python as backend / AWS Lambda / AWS API Gateway / AWS MongoDB / LINE API as frontend|
 |[スライド](https://speakerdeck.com/kazuhitonakayama/koronafalsegan-ran-zhe-shu-wolineniri-ci-detong-zhi-suruapuriwokai-fa-sita)|[スライド](https://speakerdeck.com/kazuhitonakayama/application-for-checking-the-availability-of-shared-bathrooms)|
 |![image](https://user-images.githubusercontent.com/50609459/160310909-7712b2b6-1418-4e39-88d6-ed3653d57862.png)|![image](https://user-images.githubusercontent.com/50609459/160311050-70f816bf-74dc-46a5-b9d4-adc08a3d0686.png)|
+
+# 将来の展望
+『誰もが笑って暮らせる社会の実装と継承』に向けて、世界が1ミリでも良くなるようなサービスを仲間と作っていきたい。
+そのため、エンジニアリングに軸足を置きつつ、プロダクトオーナーのように、開発そのものや、開発組織開発など全体に積極的に関わっていき、上流工程から、下流工程まで一気通貫で任せられるようなエンジニアになります。
+
+# 希望する環境・スタイル
+- 声を上げやすい環境（〇〇に課題がありそうなので、改善してみて良いですか。などが言いやすい環境）
+- 業務だけのコミュニケーションだけでなく、カジュアルなコミュニケーションもある環境（slackで、社内でよく使われる言葉のスタンプなどを作って楽しい雰囲気を作ったりしながら、みんな気持ちよく仕事をすることを好む）
+- 少人数チームで小さく早くリリースし、ユーザーからの声や、社内の声を受けながら改善のサイクルを回していく、アジャイルな開発スタイル
+- バックエンドに強みを持ちつつ、フロントエンド・インフラ・モバイルアプリ開発などの幅広い技術分野にも挑戦できる環境
+- コードレビュー・ペアプロなどを積極的に取り入れ、技術の属人性が限りなく無くなったサステナブルな環境づくりに興味がある
