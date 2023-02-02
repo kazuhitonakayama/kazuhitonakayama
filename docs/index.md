@@ -1,4 +1,9 @@
-# Kazuhito Nakayama
+# Kazuhito Nakayama | 中山 一仁
+- 事業のロードマップを前倒しできるフルサイクルエンジニアを目指しています。
+- 会社で起こる様々な課題に対して自分ごととして捉えることが得意です。
+  - 解決するためにツールを導入したり手を動かして技術で解決します。
+- Ruby, Railsを主戦場としながらもTypeScript, Flutterなどといった技術も個人でキャッチアップしています。
+- MBTIという診断ツールで「エンターテイナー」の人間性ということもあり、組織内のコミュニケーションを明るくすることが得意です。
 
 # 職務経歴書
 
@@ -9,35 +14,20 @@
 ## 技術スタック
 
 ### 言語
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/Go-green?logo=go">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-  <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-</p>
+javascript / Ruby / Python / java / Go / CSS / HTML
 
 ### フレームワーク・その他
-<p>
-  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white">
-</p>
+Ruby on Rails / Docker / Bootstrap / Vue.js / Wordpress / Shopify
 
 ### ミドルウェア
-<p>
-  <img src="https://img.shields.io/badge/heroku-infra-green">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
-  <img src="https://img.shields.io/badge/MySQL-pink?logo=mysql">
-</p>
+heroku / postgresql / Mysql
 
 ## 職務要約
 大阪市立大学法学部在学中（2年次）にプログラミング学習を始め、その後、Web制作会社での1年半程度インターン、個人事業主として受託開発、そしてプログラミングスクールにてRuby on RailsによるWebアプリ開発の伴走をする。  
 
-大学卒業後、Pythonを用いて検索エンジンのバックエンド部分（バッチ制御）の実装、Railsによる決済付きECモールの開発、WordpressとRailsによるWebメディアの開発・立ち上げに従事するなど、ソフトウェアエンジニアの経験はインターン経験も含めると、現在まで3年にわたってソフトウェア開発を行う。  
+大学卒業後、Pythonを用いて検索エンジンのバックエンド部分（バッチ制御）の実装、Railsによる決済付きECモールの開発、WordpressとRailsによるWebメディアの開発・立ち上げ、Shopifyを使ったECサイト開発・立ち上げに従事するなど、ソフトウェアエンジニアの経験はインターン経験も含めると、現在まで3年にわたってソフトウェア開発を行う。  
+
+業務外では、株式会社サイバーエージェント様の「Go Academy」という企画に参加し3ヶ月程度でGoを使ったアプリケーションを実装したり、株式会社ソニックガーデン様の「ソニックガーデンジム」という企画に参加し3ヶ月間コードレビューをいただきながら課題となるRailsアプリケーションの開発を実装したりなどしてきました。  
 
 今後は、ユーザーヒアリングや要件定義といった上流工程から、実装部分、そして事業成長まで一気通貫で責任を持って成果を出せるエンジニアになるべく、一気通貫でソフトウェアを作り上げられる環境にチャレンジしたい。
 
@@ -59,13 +49,28 @@ Webメディアのライティング業務において自作のエディター�
 ## 職務経歴
 ### 株式会社ブイクック（ソフトウェアエンジニア：正社員) 2022年3月~現在
 #### 業務内容要約
-ECサイトの立ち上げ・保守・運用
+マーケットプレイス型ECサイトの立ち上げ・保守・運用 / ネットスーパー型ECサイトの立ち上げ・保守・運用 / レシピサイトの開発・保守・運用
 
-#### 業務内容の詳細
-マーケットプレイス型のECモールの立ち上げ・保守・運用を3人程度で行う。主に、使用技術の技術選定や開発基盤の構築、そしてバックエンド(決済における配送料の計算部分や、配送料の設定部分・商品データの設定部分)を担当する。また、エラー検知や、サービスの死活監視の用途でモニタリングシステムの基盤構築も行う。
+#### 1. マーケットプレイス型ECサイトの新規立ち上げ
+rails製のspreeというオープンソースを利用して、決済機能付きのECサイトの新規立ち上げを行う。
 
-使用技術
-- Ruby on Rails / heroku / spree（ECサイトの構築ができるオープンソース） / Datadog / javascript / shopify
+**使用技術**  
+Ruby on Rails / heroku / spree / Datadog / javascript
+
+**メンバー**  
+開発者4人（正社員であるエンジニア1名、自身を含めたエンジニア3名）
+
+**担当領域**  
+バックエンド・フロントエンドどちらも担う。決済における配送料の計算部分と、出店者の方々がさわる管理画面のデザイン実装を行う。
+
+#### 2. 小売型ネットスーパーのECサイトの新規立ち上げ
+使用技術の技術選定から実装、リリースまでフルサイクルに担当。
+
+使用技術  
+Shopify
+
+メンバー  
+3人（正社員である私、業務委託のエンジニア2名）
 
 ### 株式会社ブイクック（ソフトウェアエンジニア：業務委託） 2020年6月~2022年2月
 #### 業務内容要約
@@ -121,7 +126,6 @@ CMS(Wordpress、shopify)を用いて、ECサイトや、コーポレートサイ
 |---|---|
 |Go as backend / AWS SAM / AWS Aurora / Heroku as infla / LINE API as frontend| Python as backend / AWS Lambda / AWS API Gateway / AWS MongoDB / LINE API as frontend|
 |[スライド](https://speakerdeck.com/kazuhitonakayama/koronafalsegan-ran-zhe-shu-wolineniri-ci-detong-zhi-suruapuriwokai-fa-sita)|[スライド](https://speakerdeck.com/kazuhitonakayama/application-for-checking-the-availability-of-shared-bathrooms)|
-|![image](https://user-images.githubusercontent.com/50609459/160310909-7712b2b6-1418-4e39-88d6-ed3653d57862.png)|![image](https://user-images.githubusercontent.com/50609459/160311050-70f816bf-74dc-46a5-b9d4-adc08a3d0686.png)|
 
 # 将来の展望
 『誰もが笑って暮らせる社会の実装と継承』に向けて、世界が1ミリでも良くなるようなサービスを仲間と作っていきたい。
