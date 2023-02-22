@@ -153,7 +153,7 @@ CMS(Wordpress、shopify)を用いて、ECサイトや、コーポレートサイ
 2. 31日間で作り上げたブイクックスーパー開発の裏側 ( https://vcook.co.jp/blog/tech_episode_vcooksuper_dev )
 
 # 情報発信源
-[Qiita](https://qiita.com/kazuhito_nakayama) 55投稿 357Contributions / [Zenn](https://zenn.dev/be_the_light) 11投稿 54likes/ [Github](https://github.com/kazuhitonakayama) / [Twitter](https://twitter.com/kazuhitonakayam) 800程度のフォロワー / [note](https://note.com/kazuhitonakayama) 5投稿
+[Qiita](https://qiita.com/kazuhito_nakayama) 58投稿 385Contributions / [Zenn](https://zenn.dev/be_the_light) 12投稿 58likes/ [Github](https://github.com/kazuhitonakayama) / [Twitter](https://twitter.com/kazuhitonakayam) / [note](https://note.com/kazuhitonakayama) 
 
 # 登壇
 1. [LINE API登壇ビギナー祭り！【LT大会】](https://linedevelopercommunity.connpass.com/event/217740/) by LINE Developer Community
