@@ -148,6 +148,9 @@ CMS(Wordpress、shopify)を用いて、ECサイトや、コーポレートサイ
 使用技術
 - Wordpress / shopify / HTML / CSS / javascript
 
+# プレスリリース
+1. ヴィーガン商品専門ネットスーパー「ブイクックスーパー」リニューアルOPEN！( https://prtimes.jp/main/html/rd/p/000000040.000056341.html )
+2. 31日間で作り上げたブイクックスーパー開発の裏側 ( https://vcook.co.jp/blog/tech_episode_vcooksuper_dev )
 
 # 情報発信源
 [Qiita](https://qiita.com/kazuhito_nakayama) 55投稿 357Contributions / [Zenn](https://zenn.dev/be_the_light) 11投稿 54likes/ [Github](https://github.com/kazuhitonakayama) / [Twitter](https://twitter.com/kazuhitonakayam) 800程度のフォロワー / [note](https://note.com/kazuhitonakayama) 5投稿
